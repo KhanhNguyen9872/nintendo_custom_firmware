@@ -1,0 +1,41 @@
+Atmosphère Fatal Report (v1.1):
+Result:                          0x290 (2144-0001)
+
+Program ID:                      0100000000001000
+Process Name:                    qlaunch
+Firmware:                        12.1.0 (Atmosphère 1.0.0-master-bfeba7c1)
+General Purpose Registers:
+Start Address:                   00000022ffe00000
+Stack Trace:
+        ReturnAddress[00]:       000000230000df5c
+        ReturnAddress[01]:       00000022ffe8c814
+        ReturnAddress[02]:       00000022ffe92214
+        ReturnAddress[03]:       00000022ffe922b8
+        ReturnAddress[04]:       0000002300751320
+        ReturnAddress[05]:       000000230072781c
+        ReturnAddress[06]:       000000230013d3e4
+        ReturnAddress[07]:       000000230013cc2c
+        ReturnAddress[08]:       00000022ffff0df8
+        ReturnAddress[09]:       00000022ffff4104
+        ReturnAddress[10]:       0000000000000000
+        ReturnAddress[11]:       0000000000000000
+        ReturnAddress[12]:       0000000000000000
+        ReturnAddress[13]:       0000000000000000
+        ReturnAddress[14]:       0000000000000000
+        ReturnAddress[15]:       0000000000000000
+        ReturnAddress[16]:       0000000000000000
+        ReturnAddress[17]:       0000000000000000
+        ReturnAddress[18]:       0000000000000000
+        ReturnAddress[19]:       0000000000000000
+        ReturnAddress[20]:       0000000000000000
+        ReturnAddress[21]:       0000000000000000
+        ReturnAddress[22]:       0000000000000000
+        ReturnAddress[23]:       0000000000000000
+        ReturnAddress[24]:       0000000000000000
+        ReturnAddress[25]:       0000000000000000
+        ReturnAddress[26]:       0000000000000000
+        ReturnAddress[27]:       0000000000000000
+        ReturnAddress[28]:       0000000000000000
+        ReturnAddress[29]:       0000000000000000
+        ReturnAddress[30]:       0000000000000000
+        ReturnAddress[31]:       0000000000000000
